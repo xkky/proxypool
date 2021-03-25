@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://testdemoxkky.herokuapp.com/m/source.yaml
+  - https://testdemoxkky.herokuapp.com/source.yaml
